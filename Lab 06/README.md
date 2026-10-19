@@ -88,7 +88,7 @@ Folder names are used as landmark labels. The folder names above reflect the cur
 
 ## Author
 
-**Mohsin Ashraf**  
+**Haider Zahoor**  
 Computer Vision Lab Project
 
 ## License
